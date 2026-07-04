@@ -18,5 +18,3 @@ Currently, I'm focusing on developing practical skills through projects, Microso
 - 🐍 Python
 - 💻 Data Structures & Algorithms
 ##
-
-Thanks for visiting! ⭐
