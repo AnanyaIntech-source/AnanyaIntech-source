@@ -19,9 +19,4 @@ Currently, I'm focusing on developing practical skills through projects, Microso
 - 💻 Data Structures & Algorithms
 ##
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn *(https://www.linkedin.com/in/ananya-siju-a04835291/)*
-- 🌐 Portfolio *(Coming Soon)*
-
 Thanks for visiting! ⭐
