@@ -26,7 +26,7 @@ I believe consistent learning, hands-on experimentation and open-source collabor
 
 🔐 Cybersecurity Notes
 
-💻 DSA in C++
+💻 **[DSA in C++](https://github.com/AnanyaIntech-source/-DSA)**
 
 🐍 Python Automation
 
@@ -38,8 +38,8 @@ I believe the best way to learn technology is by building practical projects and
 ---
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ananya-siju-a04835291/)
-- 💻 [GitHub](https://github.com/AnanyaIntech-source)
+- 💼 **[LinkedIn](https://www.linkedin.com/in/ananya-siju-a04835291/)**
+- 💻 **[GitHub](https://github.com/AnanyaIntech-source)**
 - 💡 **[LeetCode](https://leetcode.com/u/Ananya_1620/)**
 - 🌐 Portfolio *(Coming Soon)*
 
