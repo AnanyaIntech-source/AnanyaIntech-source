@@ -30,6 +30,8 @@ I believe consistent learning, hands-on experimentation and open-source collabor
 
 🐍 Python Automation
 
+🏅 **[Certificates](https://github.com/AnanyaIntech-source/-Certifications)**
+
 ---
 ### 🌱 Philosophy
 > Learn → Build → Share → Repeat
