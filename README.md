@@ -29,7 +29,7 @@ Practical Microsoft Azure labs documenting cloud concepts, services, deployments
 🔐 **cybersecurity-notes-and-labs**  
 Curated cybersecurity notes, labs, and learning resources covering networking, security fundamentals, and best practices.
 
-💻 **dsa-in-cpp**  
+💻 **[dsa-in-cpp](https://github.com/AnanyaIntech-source/-DSA/tree/main)**  
 Structured solutions and implementations of Data Structures & Algorithms to strengthen problem-solving and coding skills.
 
 🐍 **python-automation-projects**  
