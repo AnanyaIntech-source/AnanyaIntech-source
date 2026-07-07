@@ -20,19 +20,19 @@ I believe consistent learning, hands-on experimentation and open-source collabor
 
 ### 📂 Featured Repositories
 
-🚀 **[ai-projects](https://github.com/AnanyaIntech-source/-AI-Projects-)**  
+🚀 **ai-projects**  
 Hands-on AI and machine learning projects exploring real-world applications, automation, and intelligent solutions.
 
-☁️ **[azure-learning-labs](https://github.com/AnanyaIntech-source/-Azure-Labs-)**  
+☁️ **azure-learning-labs**  
 Practical Microsoft Azure labs documenting cloud concepts, services, deployments, and hands-on learning.
 
-🔐 **[cybersecurity-notes-and-labs](https://github.com/AnanyaIntech-source/-Cybersecurity-Lab)**  
+🔐 **cybersecurity-notes-and-labs**  
 Curated cybersecurity notes, labs, and learning resources covering networking, security fundamentals, and best practices.
 
-💻 **[dsa-in-cpp](https://github.com/AnanyaIntech-source/-DSA)**  
+💻 **dsa-in-cpp**  
 Structured solutions and implementations of Data Structures & Algorithms to strengthen problem-solving and coding skills.
 
-🐍 **[python-automation-projects](https://github.com/AnanyaIntech-source/-Python-Projects)**  
+🐍 **python-automation-projects**  
 Python scripts and automation projects focused on improving productivity and solving practical problems.
 
 🏅 **[professional-certifications](https://github.com/AnanyaIntech-source/-Certifications)**  
