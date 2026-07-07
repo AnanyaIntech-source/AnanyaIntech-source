@@ -26,9 +26,6 @@ Hands-on AI and machine learning projects exploring real-world applications, aut
 ☁️ **azure-learning-labs**  
 Practical Microsoft Azure labs documenting cloud concepts, services, deployments, and hands-on learning.
 
-🔐 **cybersecurity-notes-and-labs**  
-Curated cybersecurity notes, labs, and learning resources covering networking, security fundamentals, and best practices.
-
 💻 **[dsa-in-cpp](https://github.com/AnanyaIntech-source/-DSA/tree/main)**  
 Structured solutions and implementations of Data Structures & Algorithms to strengthen problem-solving and coding skills.
 
@@ -37,6 +34,9 @@ Python scripts and automation projects focused on improving productivity and sol
 
 🏅 **[professional-certifications](https://github.com/AnanyaIntech-source/-Certifications)**  
 A collection of professional certifications and learning milestones showcasing continuous technical growth.  
+
+📖 **[technical-notes](https://github.com/AnanyaIntech-source/Technical-Notes)**  
+Organized notes covering Computer Science fundamentals, AI, Cloud Computing, DSA and concepts learned through certifications and hands-on labs.
 
 ---
 ### 🌱 Philosophy
