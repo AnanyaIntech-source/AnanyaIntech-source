@@ -20,7 +20,7 @@ I believe consistent learning, hands-on experimentation and open-source collabor
 
 ### 📂 Featured Repositories
 
-🚀 **[ai-projects](https://github.com/AnanyaIntech-source/VisionVerse-AI/blob/main/README.md)**  
+🚀 **[ai-projects](https://github.com/AnanyaIntech-source/VisionVerse-AI)**  
 Hands-on AI and machine learning projects exploring real-world applications, automation, and intelligent solutions.
 
 ☁️ **azure-learning-labs**  
