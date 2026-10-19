@@ -20,8 +20,8 @@ I believe consistent learning, hands-on experimentation and open-source collabor
 
 ### 📂 Featured Repositories
 
-🚀 **[ai-projects](https://github.com/AnanyaIntech-source/VisionVerse-AI)**  
-Hands-on AI and machine learning projects exploring real-world applications, automation, and intelligent solutions.
+🚀 **[project-aerion](https://github.com/AnanyaIntech-source/project_aerion)**  
+A modern, responsive web application focused on clean UI/UX, reusable components, and seamless user experiences, built using React, TypeScript, and Tailwind CSS.
 
 ☁️ **azure-learning-labs**  
 Practical Microsoft Azure labs documenting cloud concepts, services, deployments, and hands-on learning.
