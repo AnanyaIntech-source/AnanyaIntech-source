@@ -38,6 +38,9 @@ A collection of professional certifications and learning milestones showcasing c
 📖 **[technical-notes](https://github.com/AnanyaIntech-source/Technical-Notes)**  
 Organized notes covering Computer Science fundamentals, AI, Cloud Computing, DSA and concepts learned through certifications and hands-on labs.
 
+📖 **[technical-writing-notes](https://github.com/AnanyaIntech-source/Technical-Writing-Notes)**  
+A structured collection of Technical Writing coursework, documentation, practical exercises, and version control workflows.
+
 ---
 ### 🌱 Philosophy
 > Learn → Build → Share → Repeat
